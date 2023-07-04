@@ -1,0 +1,3 @@
+{
+  "buildCommand": "pnpm install -g strapi && pnpm run build"
+}
